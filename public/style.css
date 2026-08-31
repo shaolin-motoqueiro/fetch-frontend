@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#listaUsuarios {
+    margin-top: 20px;
+}
+
+#listaUsuarios p {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
